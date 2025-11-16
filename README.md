@@ -2,7 +2,7 @@
 
 ![Text to Video AI Banner](https://veoaifree.com/github/img_1763257656_9855.jpg)
 
-> Free AI Tool → [https://veoAI free.com/veo-video-generator/](https://veoAI free.com/veo-video-generator/)
+> Free AI Tool → [https://veoaifree.com/veo-video-generator/](https://veoAI free.com/veo-video-generator/)
 
 # Content Policy
 
@@ -66,7 +66,7 @@ These examples demonstrate the potential of VeoAI's Text to Video AI platform fo
 Creating stunning videos using VeoAI's Text to Video AI is a straightforward process that allows users to transform text into engaging visual content effortlessly. Here’s a step-by-step guide to help you get started:
 
 ### Step 1: **Sign Up/Login**
-- Go to [VeoAI](https://veoAI free.com/veo-video-generator/) and click on the “Sign Up” button.
+- Go to [VeoAI](https://veoaifree.com/veo-video-generator/) and click on the “Sign Up” button.
 - Fill in your details to create an account or log in to your existing account.
 
 ### Step 2: **Choose Your Video Format**
